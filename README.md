@@ -10,8 +10,8 @@
 
 As part of this project, there are two pre-built solutions - Un-managed and Managed. We recommend using the Un-managed solution if you wish to be able to debug the code. This is mainly designed for your development/sandbox environment. Once everything is configured and working as expected, we strongly recommend using the Managed solution for your production environment as all the code is optimized for performance. Please note - with the Managed solution you will not be able to debug the control.
 
-* Un-managed Solution: C:\Controls\PowerDynCustomLabelPCF\PowerDynCustomLabelPCF\PowerDynCustomLabel\bin\Debug
-* Managed Solution: C:\Controls\PowerDynCustomLabelPCF\PowerDynCustomLabelPCF\PowerDynCustomLabel\bin\Release
+* Un-managed Solution: C:\Controls\PowerDynCustomLabelPCF\Solutions\Un-managed\
+* Managed Solution:    C:\Controls\PowerDynCustomLabelPCF\Solutions\Managed\
 
 ## Setup Project to Compile Yourself
 

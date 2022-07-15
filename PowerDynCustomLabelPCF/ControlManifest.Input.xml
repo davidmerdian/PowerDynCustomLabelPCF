@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="PowerDynControls" constructor="PowerDynCustomLabel" version="0.1.07" display-name-key="PowerDynCustomLabel" description-key="This is a custom control that allows you to update the label for Text field types. With the ability to support SingleLine fields and Multiple fields, you are able to write as long of a label as you need for a field!" control-type="standard">
+    <property name="fieldNameProperty" display-name-key="Field Name" description-key="Name of the field" of-type-group="label" usage="bound" required="false" />    
+    <type-group name="label">
+        <type>SingleLine.Text</type>
+        <type>SingleLine.TextArea</type>        
+        <type>Multiple</type>      
+      </type-group>
+    <property name="customLabelProperty" display-name-key="Custom Label Text" description-key="Please enter the text that you want to appear for your custom label. Note: HTML markup is supported." of-type-group="label" usage="input" required="true" />    
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/main.css" order="1" />  
+    </resources>   
+  </control>
+</manifest>

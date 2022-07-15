@@ -1,0 +1,2 @@
+c:\Controls\PowerDynCustomLabelPCF\PowerDynCustomLabelPCF\PowerDynCustomLabel\obj\Debug\PowerDynCustomLabel.cdsproj.AssemblyReference.cache
+c:\Controls\PowerDynCustomLabelPCF\PowerDynCustomLabelPCF\PowerDynCustomLabel\obj\Debug\PowerDynCustomLabel.cdsproj.CoreCompileInputs.cache

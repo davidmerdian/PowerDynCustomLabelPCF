@@ -1,0 +1,19 @@
+2022-07-15 10:45:18.802 - Info	
+Packing c:\Controls\PowerDynCustomLabelPCF\PowerDynCustomLabelPCF\PowerDynCustomLabel\obj\Debug\Metadata to bin\Debug\PowerDynCustomLabel.zip
+
+2022-07-15 10:45:18.810 - Info	Processing Component: Entities
+2022-07-15 10:45:18.813 - Info	Processing Component: Roles
+2022-07-15 10:45:18.815 - Info	Processing Component: Workflows
+2022-07-15 10:45:18.816 - Info	Processing Component: FieldSecurityProfiles
+2022-07-15 10:45:18.816 - Info	Processing Component: Templates
+2022-07-15 10:45:18.817 - Info	Processing Component: EntityMaps
+2022-07-15 10:45:18.817 - Info	Processing Component: EntityRelationships
+2022-07-15 10:45:18.820 - Info	Processing Component: OrganizationSettings
+2022-07-15 10:45:18.821 - Info	Processing Component: optionsets
+2022-07-15 10:45:18.822 - Info	Processing Component: CustomControls
+2022-07-15 10:45:18.829 - Info	 - PowerDynControls.PowerDynCustomLabel
+2022-07-15 10:45:18.832 - Info	Processing Component: SolutionPluginAssemblies
+2022-07-15 10:45:18.833 - Info	Processing Component: EntityDataProviders
+2022-07-15 10:45:18.858 - Info	
+Unmanaged Pack complete.
+

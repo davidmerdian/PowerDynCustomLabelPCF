@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tcRX6tOQTL4HDXHpn11agJOS1HPjOqdidcFQhm4QFcXOftKRaZlpOMWiXjrvUOXKO+Qspox0laQeKvH27vsFTw==",
+  "success": true,
+  "projectFilePath": "c:\\Controls\\PowerDynCustomLabelPCF\\PowerDynCustomLabelPCF\\PowerDynCustomLabel\\PowerDynCustomLabel.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.16.6\\microsoft.powerapps.msbuild.pcf.1.16.6.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.16.6\\microsoft.powerapps.msbuild.solution.1.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+#txtInput {
+    width: -webkit-fill-available;
+    height: 30px !important;
+    font-weight: 600;
+    padding-left: 6px;
+    display: inline-block;
+}
+
+#txtInput:hover {
+    font-weight: normal;
+}
+
+.container {
+    height: 100% !important;
+    display: block;
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+}
